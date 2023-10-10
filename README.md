@@ -1,1 +1,1 @@
-# Couppled_Oscillator
+# Coupled_Oscillator
